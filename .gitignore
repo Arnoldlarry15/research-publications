@@ -1,0 +1,26 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv
+.venv/
+.pytest_cache/
+
+# Temporary extract dumps
+*_extracted.txt
+*_cleaned.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
